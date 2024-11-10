@@ -28,10 +28,10 @@ This is a PHP-based web application that allows users to submit feedback. The ap
 
 ## Installation
 
-1. Clone the repository:
-    - git clone https://github.com/yourusername/Feedback-Application.git
-2. Move into the project directory:
-    - cd Feedback-Application
+### 1. Clone the repository:
+     git clone https://github.com/yourusername/Feedback-Application.git
+### 2. Move into the project directory:
+     cd Feedback-Application
 
 ## Start a local PHP server:
     php -S localhost:8000
